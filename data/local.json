@@ -9,7 +9,7 @@
         "IconViewZoom": 15,
         "TextViewZoom": 17,
         "attribution": "<a href=\"https://www.maptiler.com/copyright/\" target=\"_blank\">© MapTiler</a> <a href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\">© OpenStreetMap contributors</a>",
-        "style":  "https://api.maptiler.com/maps/bright/style.json?key=VKffhNm6Lx0OWnme9Dqx",
+        "style":  "https://api.maptiler.com/maps/a35829bd-b5e5-4671-9823-68cf6e673e88/?key=VKffhNm6Lx0OWnme9Dqx#17.2/35.42436/133.33487",
         "GoogleAnalytics": "",
         "EnableBookmark": false
     },
